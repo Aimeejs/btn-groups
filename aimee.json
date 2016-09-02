@@ -1,0 +1,12 @@
+{
+  "name": "btn-groups",
+  "version": "1.0.0",
+  "description": "",
+  "author": "gavinning",
+  "keywords": "btn-groups",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aimeejs/btn-groups.git",
+    "bugs": "https:/github.com/aimeejs/btn-groups/issues"
+  }
+}
